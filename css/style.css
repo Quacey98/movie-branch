@@ -1,0 +1,72 @@
+
+body {
+  background-color: rgb(204, 204, 255);
+}
+header {
+  background-color: rgb(204, 204, 255);
+}
+
+
+img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+h1{
+  font-family: "Kalnia";
+  font-size: 5em;
+  color: #1f1f2c;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+h2{
+  font-family: "Kalnia";
+  font-size: 2.5em;
+  color: #1f1f2c;
+  text-align:left;
+  margin-bottom: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+p {
+  font-family: "Kalnia";
+  font-size: 1em;
+  color: #1f1f2c;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.spirit {
+  font-family: "Kalnia";
+  font-size: 1em;
+  color: #1f1f2c;
+  text-align: left;
+  line-height: normal;
+  letter-spacing: normal;
+  margin-bottom: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+footer {
+  font-family: "Kalnia";
+  font-size: 10px;
+  color: #1f1f2c;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #ccccff ;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
